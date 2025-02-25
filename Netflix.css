@@ -1,0 +1,73 @@
+/* body{
+    background-image: url("netflix-bg.jpg");
+} */
+
+#container{
+    background-image: url("netflix-bg.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+}
+#logo{
+    font-size: 50px;
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    margin: 150px;
+    background-blend-mode: darken;
+}
+#right{
+    margin-left: 550px;
+}
+#english{
+    background-color: gray;
+    opacity: 0.5;
+}
+#middle{
+    margin-top: 130px;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 30px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    text-align: center;
+    color: white;
+   line-height: 60px;
+}
+select{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 35px;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+button{
+    background-color: red;
+    color: white;
+    height: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    box-shadow: none;
+}
+input{
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 150px;
+    background-color: gray;
+    opacity: 0.5;
+    
+}
+
+#started{
+    height: 50px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+h1,h5,h6{
+  margin: 0px; 
+}
