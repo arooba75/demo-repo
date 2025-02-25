@@ -10,3 +10,4 @@ As you are working, you may be adding, editing and removing files. But whenever 
 Staged files are files that are ready to be committed to the repository you are working on.
 
 The shorthand command for git add --all is git add -A
+This change is done from git website by  arooba
